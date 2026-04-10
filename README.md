@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Parvez
+# Parvez Hussaon - Data Analyst Portfolio
 
 🎓 **BSc Mathematics Student** at the University of Greenwich  
 📊 **Aspiring Data Analyst | Financial Analyst**  
