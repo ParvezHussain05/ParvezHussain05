@@ -1,6 +1,6 @@
 # Parvez Hussain - Data Analyst Portfolio
 
-🎓 **BSc Mathematics Student** at the University of Greenwich  
+🎓 **BSc Mathematics Graduate** at the University of Greenwich  
 📊 **Aspiring Data Analyst | Financial Analyst**  
 📍 London, UK  
 
